@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ProjectCadbury/static/css/main.124f6d79.css",
-    "main.js": "/ProjectCadbury/static/js/main.89cf2142.js",
-    "static/media/Bird.png": "/ProjectCadbury/static/media/Bird.64647933e95746c4b06e.png",
-    "static/media/bg.png": "/ProjectCadbury/static/media/bg.9f77d57c11f567e58169.png",
-    "index.html": "/ProjectCadbury/index.html",
-    "main.124f6d79.css.map": "/ProjectCadbury/static/css/main.124f6d79.css.map",
-    "main.89cf2142.js.map": "/ProjectCadbury/static/js/main.89cf2142.js.map"
+    "main.css": "/flappy-bird-game/static/css/main.124f6d79.css",
+    "main.js": "/flappy-bird-game/static/js/main.41766c36.js",
+    "static/media/Bird.png": "/flappy-bird-game/static/media/Bird.64647933e95746c4b06e.png",
+    "static/media/bg.png": "/flappy-bird-game/static/media/bg.9f77d57c11f567e58169.png",
+    "index.html": "/flappy-bird-game/index.html",
+    "main.124f6d79.css.map": "/flappy-bird-game/static/css/main.124f6d79.css.map",
+    "main.41766c36.js.map": "/flappy-bird-game/static/js/main.41766c36.js.map"
   },
   "entrypoints": [
     "static/css/main.124f6d79.css",
-    "static/js/main.89cf2142.js"
+    "static/js/main.41766c36.js"
   ]
 }
